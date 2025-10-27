@@ -19,7 +19,6 @@ R · ggplot2 · forecast · tseries · stats · car
 ## Repository Structure
 - `Marketing Mix Modeling.R` – Main R script for data cleaning, modeling, and forecasting  
 - `CourseWorkData.RData` – Dataset used for regression and forecasting models  
-- `Applied Statistics Coursework_Group 3_Chocolate_Report.pdf` – Full report with results and analysis  
 
 ## How to Run
 1. Open `Marketing Mix Modeling.R` in RStudio  
